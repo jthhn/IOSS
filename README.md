@@ -18,7 +18,7 @@ A simple URL shortener built with **Flask** and **SQLite**, featuring a web inte
 
 ## Project Structure
 
-'''
+
 url-shortener/
 │
 ├── app/
@@ -41,7 +41,7 @@ url-shortener/
 ├── run.py # Entry point to start the Flask app
 ├── Dockerfile # Dockerfile for building the image
 └── docker-compose.yml # Docker Compose configuration
-'''
+
 
 
 ---
