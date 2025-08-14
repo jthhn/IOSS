@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+*.log
+*.pot
+*.pydevproject
+*.idea/
+*.vscode/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# SQLite Database
+instance/urlshort.db
+
+# Flask instance folder
+instance/
+
+# Pytest cache
+.pytest_cache/
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+*.env
+
+# OS Files
+.DS_Store
+Thumbs.db
